@@ -1,0 +1,28 @@
+name: Right Eye Management
+favicon: null
+layout_spectrum: 0.9921309167984873
+typography_spectrum: 0.3227439480833709
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6799394935369492
+  lightness: 0.48085379088297486
+  saturation: 0.7656477270647883
+  rhythmicContrast: 0.6785167437046766
+purpose: []
