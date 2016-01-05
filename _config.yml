@@ -1,6 +1,6 @@
 name: Right Eye Management
 favicon: null
-layout_spectrum: 0.91373
+layout_spectrum: 0.87688
 typography_spectrum: 0.51369
 title: Motion Picture Cast and Crew Management
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
+    - '#9bc9ed'
     - '#000000'
-    - '#f7f7f7'
-    - '#713b04'
-    - '#b5b5b5'
-    - '#ffd908'
+    - '#584b2c'
+    - '#45798a'
+    - '#99877f'
   brandStrength: 0.375
   lightness: 0
   saturation: 0
