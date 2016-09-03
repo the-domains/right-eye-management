@@ -1,20 +1,4 @@
-name: Right Eye Management
-favicon: null
-layout_spectrum: 0.92301
 typography_spectrum: 0.32034
-title: Motion Picture Cast and Crew Management
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#a6b3c3'
@@ -26,4 +10,20 @@ color:
   lightness: 0
   saturation: 0
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.92301
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Right Eye Management
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Right Eye Management
 purpose: []
